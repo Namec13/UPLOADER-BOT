@@ -11,3 +11,4 @@ dnspython
 motor[srv]
 beautifulsoup4
 pyrogram==1.4.16
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
